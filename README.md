@@ -8,6 +8,6 @@ Through meticulous design and development, the dictionary app offers a smooth an
 # Tech Stack:
 1. React JS
 2. HTML
-3. CSS
+3. SCSS
 4. Javascript
 
